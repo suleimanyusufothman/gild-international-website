@@ -1,0 +1,161 @@
+{
+  "highCommissioner": {
+    "name": "Suleiman Yusuf Othman",
+    "title": "High Commissioner & Founder",
+    "honorific": "H.E. Amb.",
+    "role": "High Commissioner of GILD International",
+    "asirsRole": "High Commissioner, African Society of International Relations Students (ASIRS)",
+    "kasuRole": "President, Department of International Relations & Diplomacy, Kaduna State University",
+    "quote": "True diplomacy begins with empowering young African leaders to master statecraft, negotiate with sovereignty, and connect our nations through intellectual excellence and principled dialogue.",
+    "bio": "Suleiman Yusuf Othman is the High Commissioner and Founder of GILD International (Global Institute for Leadership & Diplomacy). He serves as the High Commissioner of the African Society of International Relations Students (ASIRS) and President of the Department of International Relations & Diplomacy at Kaduna State University (KASU). A dedicated diplomatic scholar, pan-African youth envoy, and student leader in Kaduna, Nigeria, he established GILD International alongside 7 fellow student leaders from the Department of International Relations & Diplomacy and the Department of Political Science to build a sovereign platform for diplomatic simulations, leadership mastery, and inter-university summits across Nigeria and Africa.",
+    "photo": "/images/high-commissioner.png",
+    "credential": "GILD-HC-001 / ASIRS-KASU",
+    "tenure": "Founding High Commissioner",
+    "decorations": [
+      "High Commissioner, ASIRS",
+      "President, Dept of International Relations & Diplomacy, KASU",
+      "Distinguished Diplomatic Leadership Award, Kaduna"
+    ]
+  },
+  "executiveCouncil": [
+    {
+      "id": "co-founder-1",
+      "name": "Suleiman Yusuf Othman",
+      "role": "High Commissioner & Lead Founder",
+      "department": "Executive Office",
+      "location": "Kaduna State University, Nigeria",
+      "bio": "High Commissioner of ASIRS & President of the Department of International Relations and Diplomacy, KASU. Lead visionary of GILD International.",
+      "photo": "/images/high-commissioner.png"
+    },
+    {
+      "id": "co-founder-2",
+      "name": "Abdulaziz Abdulrahman Idris",
+      "role": "Deputy High Commissioner / Secretary-General",
+      "department": "Secretariat & Directorate of Treaties",
+      "location": "Dept of International Relations & Diplomacy, KASU",
+      "bio": "Co-Founder overseeing statutory secretariat administration, inter-departmental cooperation, and assembly coordination at Kaduna State University.",
+      "photo": "/images/founders/abdulaziz-abdulrahman-idris.png"
+    },
+    {
+      "id": "co-founder-3",
+      "name": "Abdulbasid Bashir Muaz",
+      "role": "Director of Parliamentary & Diplomatic Simulation",
+      "department": "Dept of Political Science, KASU",
+      "location": "Kaduna State University, Nigeria",
+      "bio": "Co-Founder leading parliamentary procedures, model assembly crisis simulations, and inter-university debates across Kaduna and Abuja.",
+      "photo": "/images/founders/abdulbasid-bashir-muaz.png"
+    },
+    {
+      "id": "co-founder-4",
+      "name": "Abdulmalik Bashir Sakadadi",
+      "role": "Director of Research, Treaties & Documentation",
+      "department": "Dept of International Relations & Diplomacy, KASU",
+      "location": "Kaduna State University, Nigeria",
+      "bio": "Co-Founder directing academic policy whitepapers, ECOWAS/AU treaty briefings, and position paper drafting standards.",
+      "photo": "/images/founders/abdulmalik-bashir-sakadadi.png"
+    },
+    {
+      "id": "co-founder-5",
+      "name": "Aliyu Alto Sada",
+      "role": "Director of Public Diplomacy & Strategic Communications",
+      "department": "Dept of Political Science, KASU",
+      "location": "Kaduna State University, Nigeria",
+      "bio": "Co-Founder heading diplomatic press affairs, publication of dispatches, and public outreach across Nigerian universities.",
+      "photo": "/images/founders/aliyu-alto-sada.png"
+    },
+    {
+      "id": "co-founder-6",
+      "name": "Johnson Joseph",
+      "role": "Lead Delegate",
+      "department": "Diplomatic Studies",
+      "location": "Kaduna State University, Nigeria",
+      "bio": "Lead Delegate representing GILD International in diplomatic studies and regional policy simulations.",
+      "photo": "/images/founders/Johnson-Joseph.jpg"
+    },
+    {
+      "id": "co-founder-7",
+      "name": "Joshua Lazarus Yushau",
+      "role": "Lead Delegate",
+      "department": "Diplomatic Studies",
+      "location": "Kaduna State University, Nigeria",
+      "bio": "Lead Delegate representing GILD International in diplomatic studies and regional policy simulations.",
+      "photo": "/images/founders/Joshua-Lazarus-Yushau.jpg"
+    },
+    {
+      "id": "delegate-aisha-abubakar-dankanjiba",
+      "name": "Aisha Abubakar Dankanjiba",
+      "role": "Delegate",
+      "department": "Diplomatic Studies",
+      "location": "Kaduna State University, Nigeria",
+      "bio": "Delegate representing GILD International in diplomatic studies and regional policy simulations.",
+      "photo": "/images/founders/Aisha Abubakar Dankanjiba.jpg"
+    },
+    {
+      "id": "delegate-sadiq-muhammad-kasum",
+      "name": "Sadiq Muhammad Kasum",
+      "role": "Delegate",
+      "department": "Diplomatic Studies",
+      "location": "Kaduna State University, Nigeria",
+      "bio": "Delegate representing GILD International in diplomatic studies and regional policy simulations.",
+      "photo": "/images/founders/Sadiq Muhammad Kasum.jpg"
+    }
+  ],
+  "advisoryBoard": [
+    {
+      "name": "Faculty Patron — Dept of International Relations & Diplomacy",
+      "title": "Senior Academic Patron",
+      "affiliation": "Kaduna State University (KASU)",
+      "location": "Kaduna, Nigeria"
+    },
+    {
+      "name": "Faculty Patron — Dept of Political Science",
+      "title": "Senior Political Science Advisory Fellow",
+      "affiliation": "Kaduna State University (KASU)",
+      "location": "Kaduna, Nigeria"
+    },
+    {
+      "name": "ASIRS Advisory Council",
+      "title": "Pan-African Student Advisory Board",
+      "affiliation": "African Society of International Relations Students",
+      "location": "Nigeria / West Africa"
+    },
+    {
+      "name": "Alumni Diplomatic Mentors",
+      "title": "Senior Envoys in Nigerian Foreign Service & Public Policy",
+      "affiliation": "KASU Diplomatic Alumni Network",
+      "location": "Abuja / Kaduna"
+    }
+  ],
+  "regionalAmbassadors": [
+    {
+      "region": "Kaduna & North-West Zone",
+      "lead": "Directorate of KASU Diplomatic Affairs",
+      "station": "Kaduna State University, Main Campus",
+      "focus": "Host chapter operations, departmental research, and regional youth diplomacy colloquiums"
+    },
+    {
+      "region": "Federal Capital Territory (Abuja)",
+      "lead": "Directorate of Diplomatic Mission Liaisons",
+      "station": "Abuja, FCT, Nigeria",
+      "focus": "Embassies, ministry relations, and intergovernmental policy forums"
+    },
+    {
+      "region": "North-Central Zone (Jos / Niger / Benue)",
+      "lead": "Directorate of Middle-Belt Envoys",
+      "station": "Jos / Minna",
+      "focus": "Peacebuilding dialogues, youth governance, and conflict mediation simulations"
+    },
+    {
+      "region": "North-East Zone (Borno / Bauchi / Adamawa)",
+      "lead": "Directorate of Humanitarian Policy Envoys",
+      "station": "Bauchi / Maiduguri",
+      "focus": "Lake Chad basin diplomacy, humanitarian law, and regional stability frameworks"
+    },
+    {
+      "region": "Southern Nigerian & Pan-African Liaison",
+      "lead": "ASIRS Continental Youth Envoy Network",
+      "station": "Lagos / Port Harcourt / Accra",
+      "focus": "Inter-university chapters and West African student diplomatic exchange"
+    }
+  ]
+}

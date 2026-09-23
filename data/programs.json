@@ -1,0 +1,64 @@
+{
+  "programs": [
+    {
+      "id": "leadership-academy",
+      "title": "Diplomatic Leadership Academy",
+      "tag": "Foundational Fellowship",
+      "duration": "12 Weeks (Hybrid)",
+      "cohortSize": "30 Selected Fellows",
+      "curriculum": [
+        "Sovereign Protocol & Diplomatic Etiquette",
+        "Multilateral Negotiation Strategy & Harvard PON Frameworks",
+        "Bilateral Treaty Drafting & Resolution Formatting",
+        "Geopolitical Risk Analysis & Crisis Escalation Protocols"
+      ],
+      "overview": "An executive curriculum designed for emerging leaders, public sector professionals, and young diplomats seeking mastery over international diplomacy, statecraft, and multilateral crisis management.",
+      "outcome": "Accredited GILD Leadership Fellow Diploma & Geneva Assembly Invitation"
+    },
+    {
+      "id": "negotiation-labs",
+      "title": "Diplomacy & Negotiation Labs",
+      "tag": "Intensive Simulation",
+      "duration": "4-Day Intensive Workshop",
+      "cohortSize": "40 Delegates",
+      "curriculum": [
+        "Live Crisis Management in UN Security Council Format",
+        "Behind-the-Doors Bilateral Caucusing Techniques",
+        "Mediation of High-Stakes Cross-Border Water & Energy Disputes",
+        "Press Conference Defense & Crisis Communication"
+      ],
+      "overview": "Rigorous, unscripted high-pressure crisis simulations led by former ambassadors. Delegates are thrust into developing international disputes requiring swift multilateral diplomacy.",
+      "outcome": "Specialist Certificate in High-Stakes Multilateral Negotiation"
+    },
+    {
+      "id": "policy-fellowship",
+      "title": "Global Policy Fellowship",
+      "tag": "Research & Policy",
+      "duration": "6 Months",
+      "cohortSize": "15 Research Envoys",
+      "curriculum": [
+        "White Paper Research with Institutional Mentors",
+        "Sovereign Debt, Trade & Sanctions Legal Architecture",
+        "Global AI Governance & Transnational Tech Ethics",
+        "Direct Submission to Intergovernmental Working Groups"
+      ],
+      "overview": "Bridging academic rigor with diplomatic action. Fellows conduct field and analytical policy research and co-author institutional white papers presented at GILD summits.",
+      "outcome": "Publication in the GILD Diplomatic Review & Sovereign Policy Briefing"
+    },
+    {
+      "id": "summit-training",
+      "title": "Summit Simulation Training",
+      "tag": "Pre-Summit Immersion",
+      "duration": "6 Weeks Pre-Summit",
+      "cohortSize": "Open to Registered Summit Delegates",
+      "curriculum": [
+        "Rules of Procedure (ROP) Masterclass",
+        "Position Paper Drafting to Official UN Standards",
+        "Coalition Building and Resolution Sponsorship Strategies",
+        "Parliamentary Point of Order & Procedural Maneuvering"
+      ],
+      "overview": "The mandatory preparatory track for registered delegates attending GILD international summits. Ensures every delegate arrives at the rostrum prepared for peak performance.",
+      "outcome": "Certified GILD Delegate Roster Standing"
+    }
+  ]
+}

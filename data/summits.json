@@ -1,0 +1,128 @@
+{
+  "nextSummit": {
+    "id": "kaduna-2026",
+    "name": "Kaduna All-African Diplomatic Summit 2026",
+    "theme": "Empowering Young African Diplomats for Continental Sovereignty and Regional Integration",
+    "city": "Kaduna",
+    "country": "Nigeria",
+    "venue": "Kaduna State University (KASU) Main Campus, Tafawa Balewa Way, Kaduna",
+    "dates": "November 12 – 15, 2026",
+    "startDate": "2026-11-12T09:00:00Z",
+    "edition": "4th National & Continental Edition",
+    "capacity": 350,
+    "confirmedDelegates": 284,
+    "participatingNations": "Delegations across Nigeria & West Africa",
+    "hostInstitution": "Kaduna State University (Department of International Relations & Diplomacy and Department of Political Science)",
+    "committees": [
+      "African Union Peace & Security Council (AU-PSC) — Sahel Crisis Simulation",
+      "ECOWAS Mediation Committee — Regional Security & Border Pacts",
+      "UN Security Council (UNSC) — African Permanent Seat Deliberation",
+      "AfCFTA Youth Economic & Cross-Border Trade Taskforce"
+    ],
+    "coordinates": {
+      "lat": 10.5105,
+      "lng": 7.4165
+    },
+    "description": "The flagship national and continental assembly hosted by GILD International at Kaduna State University, bringing together student delegates, emerging envoys, and political science scholars to deliberate regional security, bilateral diplomacy, and African sovereign development.",
+    "registrationDeadline": "October 20, 2026",
+    "registrationLink": "/apply?summit=kaduna-2026"
+  },
+  "pastSummits": [
+    {
+      "id": "kaduna-kasu-2026",
+      "name": "KASU Model Diplomatic Assembly 2026",
+      "edition": "3rd Campus Edition",
+      "city": "Kaduna",
+      "country": "Nigeria",
+      "venue": "Faculty of Social Sciences Auditorium, Kaduna State University",
+      "dates": "March 18 – 20, 2026",
+      "delegatesCount": 240,
+      "countriesCount": 18,
+      "resolutionsAdopted": 6,
+      "coordinates": { "lat": 10.5105, "lng": 7.4165 },
+      "image": "/images/kasu-photos/WhatsApp Images/IMG-20260903-WA0004.jpg",
+      "summary": "Jointly convened by the Department of International Relations & Diplomacy and the Department of Political Science at KASU, deliberating ECOWAS regional integration and youth statecraft."
+    },
+    {
+      "id": "abuja-colloquium-2025",
+      "name": "Abuja Inter-University Diplomatic Colloquium 2025",
+      "edition": "2nd National Edition",
+      "city": "Abuja",
+      "country": "Nigeria",
+      "venue": "National Merit House & Diplomatic Liaison Center, Abuja",
+      "dates": "October 23 – 26, 2025",
+      "delegatesCount": 210,
+      "countriesCount": 15,
+      "resolutionsAdopted": 5,
+      "coordinates": { "lat": 9.0765, "lng": 7.3986 },
+      "image": "/images/kasu-photos/WhatsApp Images/IMG-20260903-WA0003.jpg",
+      "summary": "Convened delegates from universities across Nigeria to draft whitepapers on Lake Chad basin stability and bilateral trade protocols."
+    },
+    {
+      "id": "kano-forum-2025",
+      "name": "Kano Diplomatic Dialogue & Youth Assembly 2025",
+      "edition": "Northern Regional Chapter",
+      "city": "Kano",
+      "country": "Nigeria",
+      "venue": "Arewa Diplomatic & Cultural Hall, Kano",
+      "dates": "June 12 – 15, 2025",
+      "delegatesCount": 180,
+      "countriesCount": 12,
+      "resolutionsAdopted": 4,
+      "coordinates": { "lat": 12.0022, "lng": 8.5920 },
+      "image": "/images/kasu-photos/WhatsApp Images/IMG-20260903-WA0005.jpg",
+      "summary": "Focused on sub-regional trade corridors, cross-border youth exchange, and peaceful conflict resolution mechanisms."
+    },
+    {
+      "id": "kaduna-founding-2024",
+      "name": "GILD Founding Session & ASIRS Assembly 2024",
+      "edition": "Inaugural Foundation Plenary",
+      "city": "Kaduna",
+      "country": "Nigeria",
+      "venue": "Kaduna State University Main Campus",
+      "dates": "November 28 – 30, 2024",
+      "delegatesCount": 150,
+      "countriesCount": 10,
+      "resolutionsAdopted": 3,
+      "coordinates": { "lat": 10.5105, "lng": 7.4165 },
+      "image": "/images/kasu-photos/WhatsApp Images/IMG-20260907-WA0002.jpg",
+      "summary": "The historic assembly where High Commissioner Suleiman Yusuf Othman and the 8 founding student leaders inaugurated GILD International and codified its charter."
+    }
+  ],
+  "globePins": [
+    { "city": "Kaduna", "country": "Nigeria", "lat": 10.5105, "lng": 7.4165, "type": "Founding Capital & KASU Secretariat (Nov 2026 Summit)", "highlight": true },
+    { "city": "Abuja", "country": "Nigeria", "lat": 9.0765, "lng": 7.3986, "type": "Federal Capital Territory & Embassy Liaison", "highlight": false },
+    { "city": "Zaria", "country": "Nigeria", "lat": 11.0855, "lng": 7.7199, "type": "Northern Academic Delegation Bureau", "highlight": false },
+    { "city": "Kano", "country": "Nigeria", "lat": 12.0022, "lng": 8.5920, "type": "Trans-Saharan Trade & Youth Chapter", "highlight": false },
+    { "city": "Lagos", "country": "Nigeria", "lat": 6.5244, "lng": 3.3792, "type": "Southern Student Diplomatic Delegation", "highlight": false },
+    { "city": "Jos", "country": "Nigeria", "lat": 9.8965, "lng": 8.8583, "type": "Middle-Belt Peacebuilding Forum", "highlight": false },
+    { "city": "Accra", "country": "Ghana", "lat": 5.6037, "lng": -0.1870, "type": "West African Youth Diplomatic Chapter", "highlight": false },
+    { "city": "Addis Ababa", "country": "Ethiopia", "lat": 9.0320, "lng": 38.7469, "type": "AU Protocol & Diplomatic Simulation Bureau", "highlight": false }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "quote": "Standing at the rostrum in Kaduna State University representing my delegation rewrote how I understand diplomacy. Under High Commissioner Suleiman Yusuf Othman's visionary leadership, GILD teaches us that African students can master sovereign negotiations and shape international policy.",
+      "author": "Fatima Abubakar Sadiq",
+      "title": "Delegate / Diplomat, Class of 2026",
+      "country": "Kaduna State University (Nigeria)",
+      "summit": "KASU Model Diplomatic Assembly 2026"
+    },
+    {
+      "id": "t2",
+      "quote": "The collaborative energy between the Department of International Relations & Diplomacy and the Department of Political Science makes GILD the premier diplomatic simulation platform in Northern Nigeria. We drafted real resolutions on ECOWAS security that matter.",
+      "author": "Ibrahim Danjuma",
+      "title": "Chief Delegate, African Union Committee",
+      "country": "Dept of Political Science, KASU (Nigeria)",
+      "summit": "Abuja Inter-University Colloquium 2025"
+    },
+    {
+      "id": "t3",
+      "quote": "GILD International and ASIRS gave us an institutional voice. From Kaduna to Abuja, we are cultivating a new generation of principled envoys who understand international law, diplomacy, and sovereign dignity.",
+      "author": "Zainab Bello",
+      "title": "Rapporteur General",
+      "country": "Dept of International Relations & Diplomacy, KASU",
+      "summit": "KASU Founding Session 2024"
+    }
+  ]
+}

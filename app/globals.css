@@ -1,0 +1,191 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy-950: #000814;
+  --color-navy-900: #001030;
+  --color-navy-800: #001B45;
+  --color-navy-700: #0B2F63;
+
+  --color-gold-600: #C07820;
+  --color-gold-500: #D89030;
+  --color-gold-400: #E8A840;
+  --color-gold-300: #F0C050;
+  --color-gold-200: #F8D870;
+
+  --color-azure-700: #002888;
+  --color-azure-500: #0048C0;
+  --color-azure-400: #0090D8;
+
+  --color-paper: #FAF9F6;
+  --color-ink: #14213D;
+  --color-brand-white: #F8F8F8;
+
+  --font-display: var(--font-cormorant), Georgia, serif;
+  --font-ceremonial: var(--font-cinzel), "Times New Roman", serif;
+  --font-body: var(--font-inter), -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+:root {
+  --navy-950: #000814;
+  --navy-900: #001030;
+  --navy-800: #001B45;
+  --navy-700: #0B2F63;
+  --gold-600: #C07820;
+  --gold-500: #D89030;
+  --gold-400: #E8A840;
+  --gold-300: #F0C050;
+  --gold-200: #F8D870;
+  --azure-700: #002888;
+  --azure-500: #0048C0;
+  --azure-400: #0090D8;
+  --paper: #FAF9F6;
+  --ink: #14213D;
+  --white: #F8F8F8;
+}
+
+/* Base resets & typography */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--navy-950);
+  color: var(--white);
+  font-family: var(--font-inter), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.6;
+  font-size: 16px;
+  overflow-x: hidden;
+}
+
+/* Custom typography classes */
+.font-display {
+  font-family: var(--font-cormorant), Georgia, serif;
+}
+
+.font-ceremonial {
+  font-family: var(--font-cinzel), "Times New Roman", serif;
+}
+
+.font-body {
+  font-family: var(--font-inter), sans-serif;
+}
+
+/* Gold Gradient Text */
+.gold-text-gradient {
+  background: linear-gradient(135deg, #F8D870 0%, #D89030 45%, #C07820 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+}
+
+.gold-border {
+  border: 1px solid rgba(216, 144, 48, 0.35);
+}
+
+.gold-border-glow {
+  border: 1px solid rgba(216, 144, 48, 0.4);
+  box-shadow: 0 0 20px rgba(216, 144, 48, 0.12), inset 0 0 15px rgba(216, 144, 48, 0.04);
+}
+
+.gold-hairline {
+  border-bottom: 1px solid rgba(216, 144, 48, 0.3);
+}
+
+/* Seal Frame Card - grounded in GILD mark motifs, not generic SaaS cards */
+.seal-frame {
+  position: relative;
+  background: linear-gradient(145deg, #001B45 0%, #001030 100%);
+  border: 1px solid rgba(216, 144, 48, 0.3);
+  box-shadow: 0 12px 36px -8px rgba(0, 8, 20, 0.8), 0 0 1px 1px rgba(216, 144, 48, 0.2);
+}
+
+.seal-frame-paper {
+  position: relative;
+  background: #ffffff;
+  border: 1px solid rgba(216, 144, 48, 0.25);
+  box-shadow: 0 10px 30px -10px rgba(20, 33, 61, 0.12), 0 0 0 1px rgba(216, 144, 48, 0.15);
+}
+
+/* Medallion badge for leadership portraits */
+.medallion-badge {
+  position: relative;
+  border-radius: 9999px;
+  padding: 4px;
+  background: linear-gradient(135deg, #F8D870, #D89030, #C07820);
+  box-shadow: 0 0 20px rgba(216, 144, 48, 0.3);
+}
+
+/* 3D Flip Card classes */
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+/* Animated sliding gold underline for navigation */
+.nav-link-hover {
+  position: relative;
+}
+
+.nav-link-hover::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: -4px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: linear-gradient(90deg, transparent, #F0C050, transparent);
+  transition: width 0.25s ease-in-out;
+}
+
+.nav-link-hover:hover::after,
+.nav-link-active::after {
+  width: 100%;
+}
+
+/* Wax Seal Stamp Animation */
+@keyframes stampDown {
+  0% {
+    transform: scale(3) rotate(-15deg);
+    opacity: 0;
+  }
+  70% {
+    transform: scale(0.9) rotate(3deg);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1) rotate(0deg);
+    opacity: 1;
+  }
+}
+
+.animate-stamp {
+  animation: stampDown 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .animate-stamp {
+    animation: none;
+    transform: none;
+    opacity: 1;
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "title": "Institutional Hierarchy",
+  "subtitle": "Stepped Sovereign Architecture of GILD International",
+  "description": "Founded at Kaduna State University (KASU) within the Department of International Relations & Diplomacy and the Department of Political Science, guided by High Commissioner Suleiman Yusuf Othman and the founding delegates.",
+  "tiers": [
+    {
+      "tierLevel": 1,
+      "tierName": "Apex Leadership",
+      "roleTitle": "High Commissioner & Founder",
+      "count": 1,
+      "widthPercent": 36,
+      "summary": "Supreme institutional governance, diplomatic accreditation, and global charter oversight.",
+      "members": [
+        {
+          "name": "Suleiman Yusuf Othman",
+          "role": "High Commissioner & Founder",
+          "photo": "/images/founders/Suleiman Yusuf Othman.png",
+          "note": "High Commissioner of ASIRS & President of the Department of International Relations & Diplomacy, KASU."
+        }
+      ]
+    },
+    {
+      "tierLevel": 2,
+      "tierName": "Executive Secretariat",
+      "roleTitle": "Deputy High Commissioner / Secretary-General",
+      "count": 1,
+      "widthPercent": 48,
+      "summary": "Operational command, inter-departmental cooperation, and secretariat coordination.",
+      "members": [
+        {
+          "name": "Abdulaziz Abdulrahman Idris",
+          "role": "Deputy High Commissioner / Secretary-General",
+          "photo": "/images/founders/abdulaziz-abdulrahman-idris.png",
+          "note": "Coordinates statutory administration, inter-departmental cooperation, and assembly operations."
+        }
+      ]
+    },
+    {
+      "tierLevel": 3,
+      "tierName": "Founding Directors & Council",
+      "roleTitle": "Founding Directors",
+      "count": 6,
+      "widthPercent": 66,
+      "summary": "Founding student leaders from International Relations & Diplomacy and Political Science who established GILD International.",
+      "members": [
+        {
+          "name": "Abdulbasid Bashir Muaz",
+          "role": "Director of Parliamentary & Diplomatic Simulation",
+          "photo": "/images/founders/abdulbasid-bashir-muaz.png",
+          "note": "Department of Political Science, KASU"
+        },
+        {
+          "name": "Abdulmalik Bashir Sakadadi",
+          "role": "Director of Research, Treaties & Documentation",
+          "photo": "/images/founders/abdulmalik-bashir-sakadadi.png",
+          "note": "Department of International Relations & Diplomacy, KASU"
+        },
+        {
+          "name": "Aliyu Alto Sada",
+          "role": "Director of Public Diplomacy & Communications",
+          "photo": "/images/founders/aliyu-alto-sada.png",
+          "note": "Department of Political Science, KASU"
+        },
+        {
+          "name": "Kashim Hamza",
+          "role": "Head Delegate",
+          "photo": "/images/founders/Kashim Hamza.jpg",
+          "note": "Founding Directorate, GILD International"
+        },
+        {
+          "name": "Aisha Abubakar Dankanjiba",
+          "role": "Delegate",
+          "photo": "/images/founders/Aisha Abubakar Dankanjiba.jpg",
+          "note": "Diplomatic Studies, KASU"
+        },
+        {
+          "name": "Sadiq Muhammad Kasum",
+          "role": "Delegate",
+          "photo": "/images/founders/Sadiq Muhammad Kasum.jpg",
+          "note": "Diplomatic Studies, KASU"
+        }
+      ]
+    },
+    {
+      "tierLevel": 4,
+      "tierName": "Academic & Continental Liaisons",
+      "roleTitle": "University & Regional Envoys",
+      "count": 4,
+      "widthPercent": 84,
+      "summary": "Delegates connecting Kaduna State University with partner universities and African diplomatic networks.",
+      "members": [
+        {
+          "name": "Amina Mukhtar Anka",
+          "role": "Academic Liaison",
+          "photo": "/images/founders/Amina Mukhtar Anka.jpg",
+          "note": "University and inter-institutional coordination"
+        },
+        {
+          "name": "Jesse Emmanuel",
+          "role": "Regional Envoy",
+          "photo": "/images/founders/Jesse Emmanuel.jpg",
+          "note": "Academic and regional diplomatic exchange"
+        },
+        {
+          "name": "Nafisa Mukhtar Yabo",
+          "role": "Continental Envoy",
+          "photo": "/images/founders/Nafisa Mukhtar Yabo.jpg",
+          "note": "Pan-African student diplomatic network"
+        },
+        {
+          "name": "Vanessa Wamju",
+          "role": "University Delegate Liaison",
+          "photo": "/images/founders/Vanessa Wamju.jpg",
+          "note": "Inter-university delegate coordination"
+        }
+      ]
+    },
+    {
+      "tierLevel": 5,
+      "tierName": "The Active Diplomat Corps",
+      "roleTitle": "Commissioned Delegates / Diplomats",
+      "count": 50,
+      "widthPercent": 100,
+      "summary": "The student delegates and envoys representing standing committees at Kaduna State University and national simulation assemblies.",
+      "members": [
+        {
+          "name": "Class of 2026 (Founding Cohort)",
+          "role": "50 Commissioned Delegates / Diplomats",
+          "photo": "/images/founders/Aisha Abubakar Dankanjiba.jpg",
+          "note": "Commissioned delegate roster of GILD International."
+        },
+        {
+          "name": "Aisha Abubakar Dankanjiba & Sadiq Muhammad Kasum",
+          "role": "Recently Added Delegates",
+          "photo": "/images/founders/Sadiq Muhammad Kasum.jpg",
+          "note": "Newly added to the Class of 2026 delegate directory."
+        }
+      ]
+    }
+  ]
+}
