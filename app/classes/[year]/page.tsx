@@ -177,7 +177,9 @@ export default function DiplomatClassesPage({
               key={diplomat.id}
               diplomat={diplomat}
               imageClassName={
-                diplomat.name === "Dorcas Daniel" || diplomat.name === "Hauwau Abdullahi Salis"
+                diplomat.name === "Nana Aisha Ibrahim Dilli"
+                  ? "object-cover object-[center_40%]"
+                  : diplomat.name === "Dorcas Daniel" || diplomat.name === "Hauwau Abdullahi Salis"
                   ? "object-cover object-center"
                   : diplomat.name === "Jewel Gandu"
                     ? "object-cover object-[center_25%]"
