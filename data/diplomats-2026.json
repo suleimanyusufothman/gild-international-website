@@ -483,14 +483,14 @@
     },
     {
       "id": "gild-26-46",
-      "name": "Ekumi Miriam",
+      "name": "Ekumi Mirrian",
       "countryCode": "NG",
       "countryName": "Nigeria (KASU)",
       "committee": "Human Rights & Displaced Persons",
       "role": "Delegate",
       "badgeId": "GILD-2026-046",
       "bio": "Delegate representing GILD International in diplomatic studies and regional policy simulations.",
-      "photo": "/images/founders/Ekumi Miriam.jpg"
+      "photo": "/images/founders/Ekumi Mirrian.jpg"
     },
     {
       "id": "gild-26-47",
@@ -535,6 +535,39 @@
       "badgeId": "GILD-2026-050",
       "bio": "Delegate representing GILD International in diplomatic studies and regional policy simulations.",
       "photo": "/images/founders/Sadiq Muhammad Kasum.jpg"
+    },
+    {
+      "id": "gild-26-51",
+      "name": "Habiba Adamu",
+      "countryCode": "NG",
+      "countryName": "Nigeria (KASU)",
+      "committee": "Human Rights & Displaced Persons",
+      "role": "Delegate",
+      "badgeId": "GILD-2026-051",
+      "bio": "Delegate representing GILD International in diplomatic studies and regional policy simulations.",
+      "photo": "/images/founders/Habiba Adamu.jpg"
+    },
+    {
+      "id": "gild-26-52",
+      "name": "Nana Aisha Ibrahim Dilli",
+      "countryCode": "NG",
+      "countryName": "Nigeria (KASU)",
+      "committee": "African Union Peace & Security Council (AU-PSC)",
+      "role": "Delegate",
+      "badgeId": "GILD-2026-052",
+      "bio": "Delegate representing GILD International in diplomatic studies and regional policy simulations.",
+      "photo": "/images/founders/Nana Aisha Ibrahim Dilli.jpg"
+    },
+    {
+      "id": "gild-26-53",
+      "name": "Rabia Lukman",
+      "countryCode": "NG",
+      "countryName": "Nigeria (KASU)",
+      "committee": "ECOWAS Regional Mediation Committee",
+      "role": "Delegate",
+      "badgeId": "GILD-2026-053",
+      "bio": "Delegate representing GILD International in diplomatic studies and regional policy simulations.",
+      "photo": "/images/founders/Rabia Lukman.jpg"
     }
   ]
 }
