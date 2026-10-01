@@ -12,6 +12,7 @@ import {
   CheckCircle,
 } from "lucide-react";
 import HeroGlobe from "@/components/HeroGlobe";
+import WelcomeVideo from "@/components/WelcomeVideo";
 import SummitCountdown from "@/components/SummitCountdown";
 import StatTile from "@/components/StatTile";
 import TestimonialCarousel from "@/components/TestimonialCarousel";
@@ -92,7 +93,22 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* 2. CREDIBILITY STRIP - Standalone Stat Tiles */}
+      {/* 2. WELCOME MESSAGE VIDEO */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="seal-frame rounded-2xl p-4 sm:p-6 border border-[#D89030]/40">
+          <div className="mb-4 text-center">
+            <span className="font-ceremonial text-xs tracking-[0.2em] text-[#D89030] uppercase font-semibold">
+              Welcome Message
+            </span>
+            <h2 className="font-display text-2xl sm:text-3xl font-bold text-[#F8F8F8] mt-2">
+              A Message from GILD International
+            </h2>
+          </div>
+          <WelcomeVideo />
+        </div>
+      </section>
+
+      {/* 3. CREDIBILITY STRIP - Standalone Stat Tiles */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
           <StatTile
