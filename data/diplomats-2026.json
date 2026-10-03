@@ -5,7 +5,7 @@
   "motto": "Per Concordiam et Sapientiam, Mundum Coniungimus (Through Concord and Wisdom, We Connect the World)",
   "oath": "I solemnly pledge to wield dialogue before discord, to honor the sovereign dignity of African nations, to champion truth in multilateral counsel, and to dedicate my voice, my intellect, and my honor to the peaceful advancement of our communities and the world.",
   "stats": {
-    "diplomats": 50,
+    "diplomats": 51,
     "countries": 16,
     "committees": 6
   },
@@ -568,6 +568,17 @@
       "badgeId": "GILD-2026-053",
       "bio": "Delegate representing GILD International in diplomatic studies and regional policy simulations.",
       "photo": "/images/founders/Rabia Lukman.jpg"
+    },
+    {
+      "id": "gild-26-54",
+      "name": "Salahudeen Mahmud Abdullah",
+      "countryCode": "NG",
+      "countryName": "Nigeria (KASU)",
+      "committee": "Human Rights & Displaced Persons",
+      "role": "Delegate",
+      "badgeId": "GILD-2026-054",
+      "bio": "Delegate representing GILD International in diplomatic studies and regional policy simulations.",
+      "photo": "/images/founders/Salahudeen Mahmud Abdullah.jpg"
     }
   ]
 }
