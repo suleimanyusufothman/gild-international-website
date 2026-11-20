@@ -25,14 +25,15 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "GILD International | Global Institute for Leadership & Diplomacy",
+  title: "FEDIRAS | Federation of International Relations Ambassadors Summit",
   description: "Developing Leaders. Advancing Diplomacy. Connecting Nations. The premier institution for diplomatic simulations, international leadership academies, and global summits.",
   keywords: [
     "Diplomacy",
     "Leadership",
     "Global Summits",
     "International Relations",
-    "GILD International",
+    "FEDIRAS",
+    "Federation of International Relations Ambassadors Summit",
     "Diplomatic Academy",
     "Geneva Summit 2026",
   ],

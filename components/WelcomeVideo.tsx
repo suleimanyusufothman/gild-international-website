@@ -36,13 +36,13 @@ export default function WelcomeVideo() {
     <div className="relative aspect-video overflow-hidden rounded-lg bg-[#000814]">
       <video
         ref={videoRef}
-        src={shouldLoad ? "/videos/Welcome%20Message%20GILD.mp4" : undefined}
+        src={shouldLoad ? "/videos/Welcome%20Message%20FEDIRAS.mp4" : undefined}
         autoPlay
         loop
         muted
         playsInline
         preload={shouldLoad ? "metadata" : "none"}
-        aria-label="Welcome message from GILD International"
+        aria-label="Welcome message from FEDIRAS"
         className="h-full w-full object-cover"
       />
       <button

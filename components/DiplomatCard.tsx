@@ -143,7 +143,7 @@ export default function DiplomatCard({
 
           <div className="pt-2 border-t border-[#0B2F63] flex items-center justify-between text-[10px] text-[#F8F8F8]/60 font-mono">
             <span>ID: {diplomat.badgeId}</span>
-            <span className="text-[#0090D8]">GILD GENEVA SEAL</span>
+            <span className="text-[#0090D8]">FEDIRAS GENEVA SEAL</span>
           </div>
         </div>
       </div>

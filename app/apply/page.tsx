@@ -64,7 +64,7 @@ const STEPS = [
   {
     step: "02",
     title: "Admissions Review",
-    desc: "The GILD Admissions Directorate reviews academic background, leadership aptitude, and committee preferences.",
+    desc: "The FEDIRAS Admissions Directorate reviews academic background, leadership aptitude, and committee preferences.",
   },
   {
     step: "03",
@@ -129,7 +129,7 @@ export default function ApplyPage() {
             Apply for Admissions
           </h1>
           <p className="text-sm sm:text-base text-[#F8F8F8]/80 max-w-xl mx-auto">
-            Submit your credentials for consideration in the GILD INTERNATIONAL Diplomat Corps.
+            Submit your credentials for consideration in the FEDIRAS Diplomat Corps.
           </p>
         </div>
       </section>
@@ -376,7 +376,7 @@ export default function ApplyPage() {
               <div className="pt-4 border-t border-[#0B2F63] flex flex-col sm:flex-row items-center justify-between gap-4">
                 <div className="flex items-center gap-2 text-xs text-[#F8F8F8]/60">
                   <Shield className="w-4 h-4 text-[#0090D8]" />
-                  <span>Your information is handled confidentially by GILD INTERNATIONAL.</span>
+                  <span>Your information is handled confidentially by FEDIRAS.</span>
                 </div>
 
                 <button
@@ -399,13 +399,13 @@ export default function ApplyPage() {
                   <div className="relative w-12 h-12 mb-1">
                     <Image
                       src="/images/logo.png"
-                      alt="GILD Crest"
+                      alt="FEDIRAS Crest"
                       fill
                       className="object-contain"
                     />
                   </div>
                   <span className="font-ceremonial text-[9px] tracking-widest text-[#F0C050] font-bold uppercase">
-                    SEAL OF GILD
+                    SEAL OF FEDIRAS
                   </span>
                   <span className="text-[7px] text-[#F8D870] font-mono">ACCREDITED</span>
                 </div>
@@ -425,7 +425,7 @@ export default function ApplyPage() {
             </div>
 
             <div className="p-4 rounded-lg bg-[#001030] border border-[#D89030]/30 max-w-md mx-auto text-xs text-[#F8F8F8]/70 space-y-1 font-mono">
-              <p>Reference Code: GILD-2026-APP-{Math.floor(100000 + Math.random() * 900000)}</p>
+              <p>Reference Code: FEDIRAS-2026-APP-{Math.floor(100000 + Math.random() * 900000)}</p>
               <p>Status: Under Preliminary Secretariat Review</p>
               <p>Notification: Within 5 Business Days via Secure Dispatch</p>
             </div>

@@ -55,7 +55,7 @@ export default function DiplomatClassesPage({
             Class of {year}
           </h1>
           <p className="text-sm sm:text-base text-[#F8F8F8]/80 max-w-xl mx-auto">
-            {diplomatsData.subtitle} — formally commissioned through the GILD International founding delegate assembly at Kaduna State University.
+            {diplomatsData.subtitle} — formally commissioned through the FEDIRAS founding delegate assembly at Kaduna State University.
           </p>
         </div>
       </section>
@@ -66,7 +66,7 @@ export default function DiplomatClassesPage({
           <div className="relative h-64 sm:h-80 w-full">
             <Image
               src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1600&auto=format&fit=crop&q=80"
-              alt="GILD Diplomatic Corps Assembly"
+              alt="FEDIRAS Diplomatic Corps Assembly"
               fill
               className="object-cover brightness-75"
               priority
@@ -209,7 +209,7 @@ export default function DiplomatClassesPage({
       <section className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="seal-frame rounded-2xl p-8 sm:p-12 border border-[#D89030] text-center space-y-6">
           <span className="font-ceremonial text-xs tracking-[0.25em] text-[#D89030] uppercase font-bold">
-            The Induction Oath of GILD
+            The Induction Oath of FEDIRAS
           </span>
           <blockquote className="font-display text-xl sm:text-2xl italic text-[#F8D870] leading-relaxed max-w-2xl mx-auto">
             &ldquo;{diplomatsData.oath}&rdquo;

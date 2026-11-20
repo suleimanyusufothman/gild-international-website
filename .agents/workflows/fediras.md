@@ -1,8 +1,8 @@
 ---
-description: Gild international workflow
+description: FEDIRAS international workflow
 ---
 
-GILD International — Website Blueprint
+FEDIRAS International — Website Blueprint
 A build-ready plan for Antigravity. Not code — a spec you feed to the agent, phase by phase.
 0. How to use this
 Antigravity plans best from a clear brief rather than a vague one. Don't paste this whole
@@ -35,7 +35,7 @@ gold-
 gold-
 500
 #D89030 sampled — matches the
-"GILD" wordmark
+"FEDIRAS" wordmark
 Primary brand gold — headings, borders, icon
 strokes
 gold-
@@ -120,18 +120,18 @@ About Us Leadership Organizational Structure Programs — optional Summits Diplo
 High Commissioner Executive Council Global Advisory Board Regional Ambassadors Upcoming Summit Past Summits Archive Class of 2026 — Founding
 Class
 ┌──────────────────────────────────────────────────────────┐
-│ [crest] GILD INTERNATIONAL About Leadership Structure │
+│ [crest] FEDIRAS INTERNATIONAL About Leadership Structure │
 │ Summits Classes [Apply] │
 ├──────────────────────────────────────────────────────────┤
 │ DEVELOPING LEADERS. ● interactive │
 │ ADVANCING DIPLOMACY. globe, gold │
 │ CONNECTING NATIONS. pins mark │
 │ chapters + │
-│ [Learn About GILD] [Apply for the 2027 Class] summits │
+│ [Learn About FEDIRAS] [Apply for the 2027 Class] summits │
 └──────────────────────────────────────────────────────────┘
 3.2 About Us
 Who We Are · Mission & Vision · Credibility & Recognition (incorporation, standards you hold
-yourselves to) · Research–Dialogue–Action pillars (if that framing fits GILD) · Institutions
+yourselves to) · Research–Dialogue–Action pillars (if that framing fits FEDIRAS) · Institutions
 you've partnered with.
 3.3 Leadership
 Job: put faces and titles to the institute, led by the High Commissioner.
@@ -192,7 +192,7 @@ change, not a redesign.
 │ NEXT SUMMIT: [Name] — [City], [Dates] │
 │ ⏱ 42d : 11h : 06m [Register] │
 ├──────────────────────────────────────────┤
-│ What is a GILD Summit? (short explainer) │
+│ What is a FEDIRAS Summit? (short explainer) │
 ├──────────────────────────────────────────┤
 │ Past Summits [interactive map │
 │ ┌───┐┌───┐┌───┐ of host cities] │
@@ -203,7 +203,7 @@ change, not a redesign.
 └──────────────────────────────────────────┘
 ┌───────────────────────────────────────────┐
 │ CLASS OF 2026 │
-│ GILD's founding cohort of diplomats │
+│ FEDIRAS's founding cohort of diplomats │
 │ [banner photo] │
 │ │
 │ ┌────────┐ ┌────────────┐ ┌──────────┐ │
@@ -232,7 +232,7 @@ Regional offices (HQ + any others), a contact form, social links, map embed.
 Pick one signature moment and let everything else stay calm — that's what makes the
 signature moment land.
 Signature moment (Home hero): an interactive globe, gently rotating, with gold pins marking
-GILD's chapters and summit host cities. Visitors can drag to rotate it; clicking a pin surfaces
+FEDIRAS's chapters and summit host cities. Visitors can drag to rotate it; clicking a pin surfaces
 the summit name and date. This is functional, not decorative — it's a literal rendering of
 "Connecting Nations."
 Supporting interactions (respond to user action, not to scrolling):

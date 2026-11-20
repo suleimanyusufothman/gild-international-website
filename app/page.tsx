@@ -59,7 +59,7 @@ export default function HomePage() {
                   CONNECTING NATIONS.
                 </h1>
                 <p className="text-base sm:text-lg text-[#F8F8F8]/80 max-w-xl font-normal pt-2 leading-relaxed">
-                  Founded in Kaduna, Nigeria, at Kaduna State University within the Department of International Relations &amp; Diplomacy and the Department of Political Science. Led by High Commissioner Suleiman Yusuf Othman and 8 Co-Founders, GILD International trains, commissions, and convenes student envoys through sovereign parliamentary simulations and diplomatic masterclasses.
+                  Founded in Kaduna, Nigeria, at Kaduna State University within the Department of International Relations &amp; Diplomacy and the Department of Political Science. Led by High Commissioner Suleiman Yusuf Othman and 8 Co-Founders, FEDIRAS trains, commissions, and convenes student envoys through sovereign parliamentary simulations and diplomatic masterclasses.
                 </p>
               </div>
 
@@ -68,7 +68,7 @@ export default function HomePage() {
                   href="/about"
                   className="px-6 py-3.5 rounded bg-[#001B45] hover:bg-[#0B2F63] border border-[#D89030]/40 text-[#F8F8F8] font-medium text-sm transition-colors"
                 >
-                  Learn About GILD
+                  Learn About FEDIRAS
                 </Link>
               </div>
 
@@ -101,7 +101,7 @@ export default function HomePage() {
               Welcome Message
             </span>
             <h2 className="font-display text-2xl sm:text-3xl font-bold text-[#F8F8F8] mt-2">
-              A Message from GILD International
+              A Message from FEDIRAS
             </h2>
           </div>
           <WelcomeVideo />
@@ -145,7 +145,7 @@ export default function HomePage() {
             Institutional Pillars
           </span>
           <h2 className="font-display text-3xl sm:text-4xl font-bold text-[#F8F8F8]">
-            The Three Foundations of GILD
+            The Three Foundations of FEDIRAS
           </h2>
           <p className="text-sm text-[#F8F8F8]/70">
             Grounding emerging statesmen and international diplomats in rigorous theory, real-time crisis deliberation, and sovereign global assemblies.
@@ -273,7 +273,7 @@ export default function HomePage() {
                 &ldquo;{hc.quote}&rdquo;
               </blockquote>
               <p className="text-sm text-[#F8F8F8]/80 leading-relaxed max-w-2xl">
-                High Commissioner of GILD International, High Commissioner of the African Society of International Relations Students (ASIRS), and President of the Department of International Relations &amp; Diplomacy at Kaduna State University (KASU). Leading 8 visionary co-founders to build the premier diplomatic simulation platform in Nigeria.
+                High Commissioner of FEDIRAS, High Commissioner of the African Society of International Relations Students (ASIRS), and President of the Department of International Relations &amp; Diplomacy at Kaduna State University (KASU). Leading 8 visionary co-founders to build the premier diplomatic simulation platform in Nigeria.
               </p>
               <div className="pt-2">
                 <Link

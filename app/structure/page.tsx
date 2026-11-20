@@ -6,8 +6,8 @@ import CompassDivider from "@/components/CompassDivider";
 import { Shield, Users } from "lucide-react";
 
 export const metadata = {
-  title: "Organizational Structure | GILD International",
-  description: "Meet the delegates and explore the organizational structure of GILD International.",
+  title: "Organizational Structure | FEDIRAS",
+  description: "Meet the delegates and explore the organizational structure of FEDIRAS.",
 };
 
 const LEADERSHIP = [
@@ -93,7 +93,7 @@ export default function StructurePage() {
           </div>
           <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl font-bold text-[#F8F8F8]">Organizational Structure</h1>
           <p className="text-sm sm:text-base text-[#F8F8F8]/80 max-w-xl mx-auto">
-            Meet the people behind GILD INTERNATIONAL and explore the structure that connects our leadership, founding delegates, and diplomatic corps.
+            Meet the people behind FEDIRAS and explore the structure that connects our leadership, founding delegates, and diplomatic corps.
           </p>
         </div>
       </section>
@@ -101,7 +101,7 @@ export default function StructurePage() {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
         <div className="text-center max-w-2xl mx-auto space-y-2">
           <span className="font-ceremonial text-xs tracking-widest text-[#D89030] uppercase font-bold">Executive &amp; Founding Leadership</span>
-          <h2 className="font-display text-3xl font-bold text-[#F8F8F8]">The Delegates Guiding GILD</h2>
+          <h2 className="font-display text-3xl font-bold text-[#F8F8F8]">The Delegates Guiding FEDIRAS</h2>
           <p className="text-sm text-[#F8F8F8]/70">Recognized leadership and founding delegates serving the institution.</p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
@@ -125,7 +125,7 @@ export default function StructurePage() {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
         <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-3">
           <div className="space-y-2">
-            <span className="font-ceremonial text-xs tracking-widest text-[#D89030] uppercase font-bold">GILD International</span>
+            <span className="font-ceremonial text-xs tracking-widest text-[#D89030] uppercase font-bold">FEDIRAS</span>
             <h2 className="font-display text-3xl font-bold text-[#F8F8F8]">Delegate Directory</h2>
             <p className="text-sm text-[#F8F8F8]/70">The wider delegate corps represented in the founding archive.</p>
           </div>

@@ -8,8 +8,8 @@ import CompassDivider from "@/components/CompassDivider";
 import summitsData from "@/data/summits.json";
 
 export const metadata = {
-  title: "Global Summits & Assemblies | GILD International",
-  description: "Explore GILD International summits, diplomatic assemblies, past events, and delegate testimonials."
+  title: "Global Summits & Assemblies | FEDIRAS",
+  description: "Explore FEDIRAS summits, diplomatic assemblies, past events, and delegate testimonials."
 };
 
 export default function SummitsPage() {
@@ -100,7 +100,7 @@ export default function SummitsPage() {
 
       <CompassDivider />
 
-      {/* 2. What is a GILD Summit? (Short Explainer) */}
+      {/* 2. What is a FEDIRAS Summit? (Short Explainer) */}
       <section className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="seal-frame-paper rounded-xl p-8 sm:p-12 text-[#14213D] space-y-6">
           <div className="text-center max-w-2xl mx-auto space-y-2">
@@ -108,10 +108,10 @@ export default function SummitsPage() {
               The Assembly Blueprint
             </span>
             <h2 className="font-display text-3xl font-bold text-[#001B45]">
-              What is a GILD Summit?
+              What is a FEDIRAS Summit?
             </h2>
             <p className="text-sm text-[#14213D]/75">
-              Unlike generic Model UN conferences, a GILD Summit is an intergovernmental simulation governed by accredited diplomatic mentors, unscripted crisis escalation, and enforceable bilateral treaty drafting.
+              Unlike generic Model UN conferences, a FEDIRAS Summit is an intergovernmental simulation governed by accredited diplomatic mentors, unscripted crisis escalation, and enforceable bilateral treaty drafting.
             </p>
           </div>
 

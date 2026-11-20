@@ -5,7 +5,7 @@ import CompassDivider from "@/components/CompassDivider";
 import programsData from "@/data/programs.json";
 
 export const metadata = {
-  title: "Diplomatic Programs & Academy | GILD International",
+  title: "Diplomatic Programs & Academy | FEDIRAS",
   description: "Explore accredited training tracks: Leadership Academy, Diplomacy & Negotiation Labs, Global Policy Fellowship, and Summit Simulation Training.",
 };
 

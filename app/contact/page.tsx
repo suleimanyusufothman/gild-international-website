@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import { CheckCircle, Mail, MapPin, Phone, Send, Shield } from "lucide-react";
 
 const CONTACT = {
-  name: "GILD INTERNATIONAL",
+  name: "FEDIRAS",
   email: "contact@gild-international.org",
   phone: "07075737733",
   address: "Kaduna State University (KASU) Main Campus, Tafawa Balewa Way, Kaduna, Nigeria",
@@ -33,10 +33,10 @@ export default function ContactPage() {
             Official Contact
           </div>
           <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl font-bold text-[#F8F8F8]">
-            Contact GILD INTERNATIONAL
+            Contact FEDIRAS
           </h1>
           <p className="text-sm sm:text-base text-[#F8F8F8]/80 max-w-xl mx-auto">
-            Connect directly with GILD INTERNATIONAL for institutional inquiries, partnerships, delegate registration, and general correspondence.
+            Connect directly with FEDIRAS for institutional inquiries, partnerships, delegate registration, and general correspondence.
           </p>
         </div>
       </section>
@@ -48,7 +48,7 @@ export default function ContactPage() {
               One Official Contact
             </span>
             <h2 className="font-display text-3xl font-bold text-[#F8F8F8]">{CONTACT.name}</h2>
-            <p className="text-sm text-[#F8F8F8]/70">The central contact for all GILD INTERNATIONAL communications.</p>
+            <p className="text-sm text-[#F8F8F8]/70">The central contact for all FEDIRAS communications.</p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
@@ -108,7 +108,7 @@ export default function ContactPage() {
               <div className="p-8 text-center space-y-4 bg-[#001030] rounded-xl border border-[#D89030]">
                 <CheckCircle className="w-12 h-12 text-[#F0C050] mx-auto" />
                 <h3 className="font-display text-2xl font-bold text-[#F8F8F8]">Message Received</h3>
-                <p className="text-xs text-[#F8F8F8]/80">Thank you for contacting GILD INTERNATIONAL. We will respond to your inquiry.</p>
+                <p className="text-xs text-[#F8F8F8]/80">Thank you for contacting FEDIRAS. We will respond to your inquiry.</p>
                 <button type="button" onClick={() => setFormSent(false)} className="text-xs text-[#F0C050] underline decoration-[#D89030]">Send another message</button>
               </div>
             )}
@@ -117,7 +117,7 @@ export default function ContactPage() {
           <div className="lg:col-span-2 seal-frame rounded-2xl p-8 border border-[#D89030]/40 flex flex-col justify-between gap-8">
             <div className="space-y-4">
               <span className="font-ceremonial text-xs tracking-widest text-[#0090D8] uppercase font-bold">Official Headquarters</span>
-              <h2 className="font-display text-2xl font-bold text-[#F8F8F8]">GILD INTERNATIONAL Secretariat</h2>
+              <h2 className="font-display text-2xl font-bold text-[#F8F8F8]">FEDIRAS Secretariat</h2>
               <p className="text-xs text-[#F8F8F8]/75 leading-relaxed">{CONTACT.address}</p>
             </div>
             <div className="pt-5 border-t border-[#0B2F63] space-y-3 text-xs text-[#F8F8F8]/70">

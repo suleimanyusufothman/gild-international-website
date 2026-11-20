@@ -54,12 +54,12 @@ export default function Header() {
         <Link
           href="/"
           className="group flex items-center gap-3 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#F0C050] rounded-lg"
-          aria-label="GILD International Home"
+          aria-label="FEDIRAS home"
         >
           <div className="relative w-11 h-11 flex-shrink-0 transition-transform duration-300 group-hover:scale-105">
             <Image
               src="/images/logo.png"
-              alt="GILD International Crest"
+              alt="FEDIRAS seal"
               fill
               sizes="48px"
               className="object-contain"
@@ -68,13 +68,10 @@ export default function Header() {
           </div>
           <div className="flex flex-col">
             <span className="font-ceremonial text-lg sm:text-xl font-bold tracking-wider text-[#F8F8F8] group-hover:text-[#F0C050] transition-colors flex items-center gap-1.5">
-              GILD
-              <span className="text-[#D89030] font-normal text-xs sm:text-sm tracking-widest uppercase">
-                International
-              </span>
+              FEDIRAS
             </span>
             <span className="text-[10px] tracking-widest text-[#D89030]/80 font-sans uppercase hidden sm:block">
-              Global Institute for Leadership &amp; Diplomacy
+              Federation of International Relations Ambassadors Summit
             </span>
           </div>
         </Link>

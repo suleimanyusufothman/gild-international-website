@@ -7,8 +7,8 @@ import LeadershipCard from "@/components/LeadershipCard";
 import leadershipData from "@/data/leadership.json";
 
 export const metadata = {
-  title: "Leadership & Governance | GILD International",
-  description: "Meet the High Commissioner, Executive Council, Global Advisory Board, and Regional Ambassadors governing GILD International.",
+  title: "Leadership & Governance | FEDIRAS",
+  description: "Meet the High Commissioner, Executive Council, Global Advisory Board, and Regional Ambassadors governing FEDIRAS.",
 };
 
 export default function LeadershipPage() {
@@ -29,7 +29,7 @@ export default function LeadershipPage() {
             Leadership &amp; Governance
           </h1>
           <p className="text-sm sm:text-base text-[#F8F8F8]/80 max-w-xl mx-auto">
-            Diplomats, international jurists, and policy architects guiding GILD International&apos;s global mission.
+            Diplomats, international jurists, and policy architects guiding FEDIRAS&apos;s global mission.
           </p>
         </div>
       </section>

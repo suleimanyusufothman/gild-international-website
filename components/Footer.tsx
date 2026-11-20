@@ -34,7 +34,7 @@ export default function Footer() {
           </svg>
         </div>
         <p className="font-ceremonial text-xs tracking-[0.25em] text-[#D89030] uppercase mt-2">
-          Global Institute for Leadership &amp; Diplomacy
+          Federation of International Relations Ambassadors Summit
         </p>
       </div>
 
@@ -46,14 +46,14 @@ export default function Footer() {
               <div className="relative w-12 h-12">
                 <Image
                   src="/images/logo.png"
-                  alt="GILD International Crest"
+                  alt="FEDIRAS seal"
                   fill
                   className="object-contain"
                 />
               </div>
               <div>
                 <span className="font-ceremonial text-xl font-bold text-[#F8F8F8] tracking-wider block">
-                  GILD INTERNATIONAL
+                  FEDIRAS
                 </span>
                 <span className="text-xs text-[#D89030] tracking-widest uppercase">
                   Developing Leaders • Advancing Diplomacy • Connecting Nations
@@ -155,7 +155,7 @@ export default function Footer() {
             <form
               onSubmit={(e) => {
                 e.preventDefault();
-                alert("Thank you. You have been registered for GILD Diplomatic Dispatches.");
+                alert("Thank you. You have been registered for FEDIRAS Diplomatic Dispatches.");
               }}
               className="space-y-2"
             >
@@ -180,7 +180,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-[#0B2F63]/80 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-[#F8F8F8]/60">
           <p>
-            &copy; {new Date().getFullYear()} GILD International. All rights reserved. Registered intergovernmental simulation and leadership entity.
+            &copy; {new Date().getFullYear()} FEDIRAS. All rights reserved. Registered intergovernmental simulation and leadership entity.
           </p>
           <div className="flex items-center gap-6">
             <Link href="/about#governance" className="hover:text-[#D89030]">

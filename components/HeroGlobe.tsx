@@ -69,7 +69,7 @@ export default function HeroGlobe() {
     const atmosphere = new THREE.Mesh(glowGeometry, glowMaterial);
     globeGroup.add(atmosphere);
 
-    // 3. Longitude and Latitude grid lines (Grounded in GILD logo motif)
+    // 3. Longitude and Latitude grid lines (Grounded in FEDIRAS logo motif)
     const wireframeGeometry = new THREE.SphereGeometry(globeRadius * 1.004, 24, 16);
     const wireframeMaterial = new THREE.MeshBasicMaterial({
       color: 0xd89030, // Primary Gold
@@ -359,7 +359,7 @@ export default function HeroGlobe() {
               {selectedPin.type}
             </p>
             <p className="text-xs text-[#F8F8F8]/70 mt-1">
-              Active GILD sovereign mission convening young envoys and multilateral delegates.
+              Active FEDIRAS sovereign mission convening young envoys and multilateral delegates.
             </p>
             <div className="mt-3 pt-2 border-t border-[#0B2F63] flex items-center justify-between">
               <a

@@ -147,7 +147,7 @@ export default function LeadershipCard({
               <Shield className="w-3 h-3" />
               Accredited Diplomatic Profile
             </span>
-            <span className="text-[#F0C050] font-sans">GILD Official Record</span>
+            <span className="text-[#F0C050] font-sans">FEDIRAS Official Record</span>
           </div>
         </div>
       </div>

@@ -3,13 +3,13 @@
     "name": "Suleiman Yusuf Othman",
     "title": "High Commissioner & Founder",
     "honorific": "H.E. Amb.",
-    "role": "High Commissioner of GILD International",
+    "role": "High Commissioner of FEDIRAS",
     "asirsRole": "High Commissioner, African Society of International Relations Students (ASIRS)",
     "kasuRole": "President, Department of International Relations & Diplomacy, Kaduna State University",
     "quote": "True diplomacy begins with empowering young African leaders to master statecraft, negotiate with sovereignty, and connect our nations through intellectual excellence and principled dialogue.",
-    "bio": "Suleiman Yusuf Othman is the High Commissioner and Founder of GILD International (Global Institute for Leadership & Diplomacy). He serves as the High Commissioner of the African Society of International Relations Students (ASIRS) and President of the Department of International Relations & Diplomacy at Kaduna State University (KASU). A dedicated diplomatic scholar, pan-African youth envoy, and student leader in Kaduna, Nigeria, he established GILD International alongside 7 fellow student leaders from the Department of International Relations & Diplomacy and the Department of Political Science to build a sovereign platform for diplomatic simulations, leadership mastery, and inter-university summits across Nigeria and Africa.",
+    "bio": "Suleiman Yusuf Othman is the High Commissioner and Founder of FEDIRAS (Federation of International Relations Ambassadors Summit). He serves as the High Commissioner of the African Society of International Relations Students (ASIRS) and President of the Department of International Relations & Diplomacy at Kaduna State University (KASU). A dedicated diplomatic scholar, pan-African youth envoy, and student leader in Kaduna, Nigeria, he established FEDIRAS alongside 7 fellow student leaders from the Department of International Relations & Diplomacy and the Department of Political Science to build a sovereign platform for diplomatic simulations, leadership mastery, and inter-university summits across Nigeria and Africa.",
     "photo": "/images/high-commissioner.png",
-    "credential": "GILD-HC-001 / ASIRS-KASU",
+    "credential": "FEDIRAS-HC-001 / ASIRS-KASU",
     "tenure": "Founding High Commissioner",
     "decorations": [
       "High Commissioner, ASIRS",
@@ -24,7 +24,7 @@
       "role": "High Commissioner & Lead Founder",
       "department": "Executive Office",
       "location": "Kaduna State University, Nigeria",
-      "bio": "High Commissioner of ASIRS & President of the Department of International Relations and Diplomacy, KASU. Lead visionary of GILD International.",
+      "bio": "High Commissioner of ASIRS & President of the Department of International Relations and Diplomacy, KASU. Lead visionary of FEDIRAS.",
       "photo": "/images/high-commissioner.png"
     },
     {
@@ -69,7 +69,7 @@
       "role": "Lead Delegate",
       "department": "Diplomatic Studies",
       "location": "Kaduna State University, Nigeria",
-      "bio": "Lead Delegate representing GILD International in diplomatic studies and regional policy simulations.",
+      "bio": "Lead Delegate representing FEDIRAS in diplomatic studies and regional policy simulations.",
       "photo": "/images/founders/Johnson-Joseph.jpg"
     },
     {
@@ -78,7 +78,7 @@
       "role": "Lead Delegate",
       "department": "Diplomatic Studies",
       "location": "Kaduna State University, Nigeria",
-      "bio": "Lead Delegate representing GILD International in diplomatic studies and regional policy simulations.",
+      "bio": "Lead Delegate representing FEDIRAS in diplomatic studies and regional policy simulations.",
       "photo": "/images/founders/Joshua-Lazarus-Yushau.jpg"
     },
     {
@@ -87,7 +87,7 @@
       "role": "Delegate",
       "department": "Diplomatic Studies",
       "location": "Kaduna State University, Nigeria",
-      "bio": "Delegate representing GILD International in diplomatic studies and regional policy simulations.",
+      "bio": "Delegate representing FEDIRAS in diplomatic studies and regional policy simulations.",
       "photo": "/images/founders/Aisha Abubakar Dankanjiba.jpg"
     },
     {
@@ -96,7 +96,7 @@
       "role": "Delegate",
       "department": "Diplomatic Studies",
       "location": "Kaduna State University, Nigeria",
-      "bio": "Delegate representing GILD International in diplomatic studies and regional policy simulations.",
+      "bio": "Delegate representing FEDIRAS in diplomatic studies and regional policy simulations.",
       "photo": "/images/founders/Sadiq Muhammad Kasum.jpg"
     }
   ],

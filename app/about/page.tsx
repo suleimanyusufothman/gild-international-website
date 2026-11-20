@@ -5,8 +5,8 @@ import { Shield, BookOpen, Compass, Award, Users, CheckCircle, Scale, Globe2, Bu
 import CompassDivider from "@/components/CompassDivider";
 
 export const metadata = {
-  title: "About Us | GILD International",
-  description: "Learn about the origins, mission, and founders of GILD International at Kaduna State University (KASU), Department of International Relations & Diplomacy and Department of Political Science.",
+  title: "About FEDIRAS",
+  description: "Learn about the Federation of International Relations Ambassadors Summit, its mission, and its founding at Kaduna State University.",
 };
 
 export default function AboutPage() {
@@ -41,10 +41,10 @@ export default function AboutPage() {
                 Born in Kaduna, Nigeria — From the Departments of International Relations &amp; Political Science
               </h2>
               <p className="text-base text-[#14213D]/85 leading-relaxed">
-                <strong>GILD International</strong> (Global Institute for Leadership &amp; Diplomacy) is an incorporated diplomatic simulation and youth leadership institute founded in <strong>Kaduna, Nigeria</strong>. It was birthed inside <strong>Kaduna State University (KASU)</strong> through the joint vision of the <strong>Department of International Relations &amp; Diplomacy</strong> and the <strong>Department of Political Science</strong>.
+                <strong>FEDIRAS</strong> (the Federation of International Relations Ambassadors Summit) is a diplomatic simulation and youth leadership initiative founded in <strong>Kaduna, Nigeria</strong>. It began at <strong>Kaduna State University (KASU)</strong> through the joint vision of the <strong>Department of International Relations &amp; Diplomacy</strong> and the <strong>Department of Political Science</strong>.
               </p>
               <p className="text-sm text-[#14213D]/75 leading-relaxed">
-                Led by <strong>Suleiman Yusuf Othman</strong> — High Commissioner of the African Society of International Relations Students (ASIRS) and President of the Department of International Relations and Diplomacy at KASU — along with <strong>8 visionary co-founders</strong>, GILD was established to provide African students and emerging envoys with an authentic, rigorous crucible for parliamentary debate, diplomatic negotiations, and statecraft.
+                Led by <strong>Suleiman Yusuf Othman</strong> — High Commissioner of the African Society of International Relations Students (ASIRS) and President of the Department of International Relations and Diplomacy at KASU — along with <strong>8 visionary co-founders</strong>, FEDIRAS was established to provide African students and emerging envoys with an authentic, rigorous crucible for parliamentary debate, diplomatic negotiations, and statecraft.
               </p>
               <div className="p-3.5 rounded-lg bg-white border border-[#D89030]/30 text-xs text-[#001B45] font-medium space-y-1">
                 <p>📍 <strong>Headquarters &amp; Academic Seat:</strong> Kaduna State University (KASU), Tafawa Balewa Way, Kaduna, Nigeria.</p>
@@ -59,7 +59,7 @@ export default function AboutPage() {
                 <div className="relative w-full h-full rounded-xl overflow-hidden bg-[#001030] flex items-center justify-center p-4">
                   <Image
                     src="/images/logo.png"
-                    alt="GILD Official Seal"
+                    alt="FEDIRAS Official Seal"
                     width={180}
                     height={180}
                     className="object-contain filter drop-shadow-2xl"
@@ -93,7 +93,7 @@ export default function AboutPage() {
                 The Founding Directorate
               </span>
               <h3 className="font-display text-3xl font-bold text-[#001B45]">
-                The Founding Directorate of GILD International
+                The Founding Directorate of FEDIRAS
               </h3>
               <p className="text-sm text-[#14213D]/70">
                 Led by Head Delegates Suleiman Yusuf Othman and Kashim Hamza, alongside pioneering student leaders and scholars from Kaduna State University.
@@ -116,7 +116,7 @@ export default function AboutPage() {
                 </div>
                 <h4 className="font-display font-bold text-sm text-[#001B45] pt-1">Kashim Hamza</h4>
                 <p className="text-[10px] text-[#C07820] font-ceremonial uppercase font-bold">Head Delegate</p>
-                <p className="text-[10px] text-[#14213D]/65">Founding Directorate &bull; GILD International</p>
+                <p className="text-[10px] text-[#14213D]/65">Founding Directorate &bull; FEDIRAS</p>
               </div>
 
               <div className="p-4 rounded-xl bg-white border border-[#D89030]/25 shadow-sm text-center space-y-1">
@@ -225,7 +225,7 @@ export default function AboutPage() {
                 Research • Dialogue • Action
               </h3>
               <p className="text-sm text-[#14213D]/70">
-                The tripartite framework governing all GILD curriculums, KASU assemblies, and simulation resolutions.
+                The tripartite framework governing all FEDIRAS curriculums, KASU assemblies, and simulation resolutions.
               </p>
             </div>
 

@@ -13,7 +13,7 @@ export default function CompassDivider({ light = false, className = "" }: Compas
     <div className={`flex items-center justify-center gap-4 py-8 w-full max-w-4xl mx-auto opacity-80 ${className}`} aria-hidden="true">
       <div className="h-[1px] flex-1 bg-gradient-to-r from-transparent via-[#D89030]/40 to-[#D89030]/80" />
       <div className="relative flex items-center justify-center">
-        {/* 8-point compass star glyph echoing the apex of the GILD emblem */}
+        {/* 8-point compass star glyph echoing the apex of the FEDIRAS emblem */}
         <svg
           width="24"
           height="24"
