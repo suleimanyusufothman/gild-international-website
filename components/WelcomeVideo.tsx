@@ -1,30 +1,11 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useRef, useState } from "react";
 import { Volume2, VolumeX } from "lucide-react";
 
 export default function WelcomeVideo() {
   const videoRef = useRef<HTMLVideoElement>(null);
   const [isMuted, setIsMuted] = useState(true);
-  const [shouldLoad, setShouldLoad] = useState(false);
-
-  useEffect(() => {
-    const video = videoRef.current;
-    if (!video || shouldLoad) return;
-
-    const observer = new IntersectionObserver(
-      ([entry]) => {
-        if (entry.isIntersecting) {
-          setShouldLoad(true);
-          observer.disconnect();
-        }
-      },
-      { rootMargin: "400px 0px" },
-    );
-
-    observer.observe(video);
-    return () => observer.disconnect();
-  }, [shouldLoad]);
 
   function toggleMuted() {
     const nextMuted = !isMuted;
@@ -36,12 +17,12 @@ export default function WelcomeVideo() {
     <div className="relative aspect-video overflow-hidden rounded-lg bg-[#000814]">
       <video
         ref={videoRef}
-        src={shouldLoad ? "/videos/Welcome%20message%20FEDIRAS.mp4" : undefined}
+        src="/videos/welcome-message.mp4"
         autoPlay
         loop
-        muted
+        muted={isMuted}
         playsInline
-        preload={shouldLoad ? "metadata" : "none"}
+        preload="metadata"
         aria-label="Welcome message from FEDIRAS"
         className="h-full w-full object-cover"
       />
