@@ -36,7 +36,7 @@ export default function WelcomeVideo() {
     <div className="relative aspect-video overflow-hidden rounded-lg bg-[#000814]">
       <video
         ref={videoRef}
-        src={shouldLoad ? "/videos/Welcome%20Message%20FEDIRAS.mp4" : undefined}
+        src={shouldLoad ? "/videos/Welcome%20message%20FEDIRAS.mp4" : undefined}
         autoPlay
         loop
         muted
